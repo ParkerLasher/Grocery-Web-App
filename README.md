@@ -1,4 +1,11 @@
 # Grocery-Web-App
+# Tech Stack: 
+- Frontend: React, Axios, CSS
+- Backend: Node.js (Express.js, Nodemailer, Passport.js, bcrypt), Python (Flask, Flask-PyMongo, pandas, datetime)
+- Database: MongoDB
+- Authentication & Security: JWT, dotenv
+- Deployment: AWS Lightsail
+- Development Tools: Visual Studio Code, Git, GitHub
 # Key Features:
 # User Authentication:
 - Registration and Login: Users can create an account and log in to access their personalized grocery lists.
